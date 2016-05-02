@@ -12,28 +12,9 @@
     border-bottom: 1px ridge;
     min-height:400px;
     background: #FFFFFF;
-    color: #000000;
-}
-.row-header{
-    margin:0px auto;
-    padding:0px auto;
-    background: #2f2f2f;
-    color: #98ff98;
-    opacity: 1;
+    color: #2f2f2f;
 }
 
-.row-content {
-    margin:0px auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height:400px;
-    background: #FFFFFF;
-    color: #000000;
-}
-.bosom-none {
-    margin-right: -15px; // Removes the right gap
-    margin-left: -15px;  // Removes the left gap
-}
 .row-footer{
     background-color: #000000;
     margin:0px auto;
@@ -47,6 +28,21 @@
     background: #2f2f2f ;
     color:floralwhite;
 }
+
+.bosom-none {
+    margin-right: -15px; // Removes the right gap
+    margin-left: -15px;  // Removes the left gap
+}
+
+.h5{
+	color: #bb0000;
+}
+
+.h1,h2,h3,h4{
+	color: #2f2f2f;
+}
+
+
 
 address{
     font-size:80%;
